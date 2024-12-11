@@ -244,3 +244,6 @@ def post_profile(
             "profile.html",
             {"request": request, "error": f"An error occurred: {str(e)}"}
         )
+    
+
+    
